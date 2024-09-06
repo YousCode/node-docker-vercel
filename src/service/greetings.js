@@ -1,5 +1,5 @@
 const greet = name => {
-  return `Hello, ${name}!`
+  return `BONJOUR, ${name}!`
 }
 
 const bye = name => {
